@@ -1,0 +1,12 @@
+# 仮想環境
+.venv/
+
+# Pythonキャッシュファイル
+__pycache__/
+*.pyc
+
+# ログファイル
+*.log
+
+# macOS固有ファイル
+.DS_Store
